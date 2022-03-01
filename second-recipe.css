@@ -1,0 +1,125 @@
+
+        * {
+        color: black; background-color: #151D3B;
+        }
+        .alert-text {
+            text-align: center;
+        }
+
+        .center {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        ul {
+            display: table;
+            margin: 0 auto;
+        }
+
+        .first-h2 {
+            text-align: center;
+            background-color: #DADBBD;
+        }
+        
+        .second-h2 {
+            text-align: center;
+            background-color: #DADBBD;
+            margin: auto;
+            padding: 10px;
+           
+        
+            
+            
+    
+
+        }
+
+        .first-p {
+            border: 5px solid #DADBBD;
+            background-color: #DADBBD;
+            text-align: center;
+            padding: 15px;
+            margin: 20px;
+           
+            
+            
+        }
+        
+        .list-1 {
+            background-color: #DADBBD;
+            
+        }
+
+        .list-text {
+            background-color: #DADBBD;
+            padding-left: ;
+            text-align: left;
+            margin: 5px;
+
+        }
+
+        .list-text-1 {
+            padding-bottom: 5px;
+            background-color: #DADBBD;
+            text-align: left;
+        }
+
+        .style-h1 {
+            text-align: center;
+            color: black; 
+            font-family: "Great Vibes", cursive; 
+            font-size: 50px; 
+            font-weight: normal;            
+            text-shadow: 0 2px 2px #DADBBD;
+            margin: 20px;
+        }
+
+    
+        .third-h2 {
+            text-align: center;
+            background-color: #DADBBD;
+            text-decoration: underline;
+        }
+
+        .column {
+            float: left;
+            width: 33.33%;
+            text-align: center;
+            
+          }
+
+          .row {
+            display: flex;
+            
+          }
+        .button-1 {
+            float: right;
+            background-color: #DADBBD;
+            border: none;
+            color: black;
+            padding: 10px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+
+        }
+
+        .button-1:hover {
+            background-color: grey;
+            color: black;
+            border: 2px solid #555555;
+          }
+
+        #footer-1 {
+            text-align: center;
+            margin: 25px;
+            padding: 25px;
+            color: #555555;
+        }
